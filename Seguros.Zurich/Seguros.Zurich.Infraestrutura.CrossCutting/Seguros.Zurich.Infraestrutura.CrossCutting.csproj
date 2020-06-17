@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Seguros.Zurich.AplicacaoDTO\Seguros.Zurich.AplicacaoDTO.csproj" />
+    <ProjectReference Include="..\Seguros.Zurich.Domain.Entities\Seguros.Zurich.Domain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

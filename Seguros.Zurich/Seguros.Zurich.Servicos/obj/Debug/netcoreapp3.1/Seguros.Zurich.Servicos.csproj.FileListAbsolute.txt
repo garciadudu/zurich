@@ -1,0 +1,14 @@
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.deps.json
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.csprojAssemblyReference.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.AssemblyInfoInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.AssemblyInfo.cs
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.csproj.CoreCompileInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.csproj.CopyComplete
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Servicos\obj\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.pdb

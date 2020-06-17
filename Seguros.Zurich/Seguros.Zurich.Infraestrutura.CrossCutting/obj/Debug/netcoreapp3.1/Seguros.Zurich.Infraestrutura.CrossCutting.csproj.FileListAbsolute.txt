@@ -1,0 +1,14 @@
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.deps.json
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.AssemblyInfoInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.AssemblyInfo.cs
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.csprojAssemblyReference.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.csproj.CoreCompileInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.csproj.CopyComplete
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.CrossCutting.pdb

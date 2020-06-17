@@ -1,0 +1,12 @@
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.deps.json
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\bin\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Entities.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.csprojAssemblyReference.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.AssemblyInfoInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.AssemblyInfo.cs
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.csproj.CoreCompileInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.csproj.CopyComplete
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Domain.Core\obj\Debug\netcoreapp3.1\Seguros.Zurich.Domain.Core.pdb

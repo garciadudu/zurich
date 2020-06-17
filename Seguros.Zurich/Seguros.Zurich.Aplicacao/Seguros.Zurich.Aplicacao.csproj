@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Seguros.Zurich.AplicacaoDTO\Seguros.Zurich.AplicacaoDTO.csproj" />
+    <ProjectReference Include="..\Seguros.Zurich.Domain.Core\Seguros.Zurich.Domain.Core.csproj" />
+    <ProjectReference Include="..\Seguros.Zurich.Infraestrutura.CrossCutting\Seguros.Zurich.Infraestrutura.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

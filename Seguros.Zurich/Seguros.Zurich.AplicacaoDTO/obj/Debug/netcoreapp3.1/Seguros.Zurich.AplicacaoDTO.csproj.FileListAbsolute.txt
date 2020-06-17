@@ -1,0 +1,9 @@
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\bin\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.deps.json
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\bin\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\bin\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.AssemblyInfoInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.AssemblyInfo.cs
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.csproj.CoreCompileInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.pdb
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.AplicacaoDTO\obj\Debug\netcoreapp3.1\Seguros.Zurich.AplicacaoDTO.csprojAssemblyReference.cache

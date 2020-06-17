@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Seguros.Zurich.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Seguros.Zurich.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Seguros.Zurich.Domain.Core.dll": {}
+        }
+      },
+      "Seguros.Zurich.Domain.Entities/1.0.0": {
+        "runtime": {
+          "Seguros.Zurich.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seguros.Zurich.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Seguros.Zurich.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
