@@ -57,3 +57,15 @@ CREATE SEQUENCE SEGURO_seq
 # Foi criado na api, o método post e o método api/seguro/cpf para pesquisa do segurado.
   
 # Também foi criado um site, com a possibilidade de cadastrar o seguro. 
+
+#Lembrar de alterar
+
+            OracleConfiguration.TraceFileLocation = @"C:\oraclexe\traces";
+            OracleConfiguration.TraceLevel = 7;
+            OracleConfiguration.TnsAdmin = @"C:\oraclexe\app\oracle\product\11.2.0\server\network\ADMIN";
+           
+e as configurações em api.           
+           
+"OracleConnection": {
+    "ConnectionString": "User Id=sysadmin;Password=sysadmin;Data Source=XE;"
+}
