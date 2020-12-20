@@ -69,3 +69,65 @@ e as configurações em api.
 "OracleConnection": {
     "ConnectionString": "User Id=sysadmin;Password=sysadmin;Data Source=XE;"
 }
+
+
+# Foi inserido swagger
+
+Adicionado o nugget Swashbuckle.AspNetCore
+
+Na api, foi adicionado em build XML documentation file:
+
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\Seguros.Zurich.Api.xml
+
+Em startup no método
+public void ConfigureServices(IServiceCollection services)
+
+foi inserido as linhas no final dela
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "O que fazer na API",
+                    Description = "Um simples exemplo de ASP.NET Core Web API",
+                    TermsOfService = new Uri("https://example.com/terms"),
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Shayne Boyer",
+                        Email = string.Empty,
+                        Url = new Uri("https://twitter.com/spboyer"),
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Use under LICX",
+                        Url = new Uri("https://example.com/license"),
+                    }
+                });
+            }
+            ); 
+
+
+Ainda no startup no método
+
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+
+
+foi inserido 
+
+
+            app.UseSwagger();
+
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Serguros V1");
+            });
+
+
+Após subir a aplicação o servidor da api, vai subir com um endereço e é só colocar assim
+
+https://localhost:44370/swagger
+
+Irá demonstrar o swagger com todas as apis.
