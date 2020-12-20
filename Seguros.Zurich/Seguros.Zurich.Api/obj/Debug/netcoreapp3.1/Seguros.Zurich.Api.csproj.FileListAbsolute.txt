@@ -86,8 +86,6 @@ C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.csproj.CoreCompileInputs.cache
-C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.csproj.CopyComplete
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.dll
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.pdb
@@ -128,3 +126,11 @@ C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Seguros.Zurich.Infraestrutura.Repository.pdb
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Seguros.Zurich.Servicos.pdb
 C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Seguros.Zurich.Api.xml
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.csproj.CoreCompileInputs.cache
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\sistemas\git\zurich\Seguros.Zurich\Seguros.Zurich.Api\obj\Debug\netcoreapp3.1\Seguros.Zurich.Api.MvcApplicationPartsAssemblyInfo.cache
